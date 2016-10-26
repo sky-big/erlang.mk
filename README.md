@@ -1,0 +1,4 @@
+# erlang.mk
+erlang编译发布的makefile脚本工具中文注释
+
+使用该工具时候的打包的时候需要relx这个开源项目的命令文件
